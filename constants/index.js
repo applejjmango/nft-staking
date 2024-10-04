@@ -1,88 +1,88 @@
 export const exploreWorlds = [
   {
-    id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    id: "staking-1",
+    imgUrl: "/staking-01.png",
+    title: "Earn with NFT Staking",
   },
   {
-    id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    id: "staking-2",
+    imgUrl: "/staking-02.png",
+    title: "Maximize Your NFT Rewards",
   },
   {
-    id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    id: "staking-3",
+    imgUrl: "/staking-03.png",
+    title: "Stake and Earn Governance",
   },
   {
-    id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    id: "staking-4",
+    imgUrl: "/staking-04.png",
+    title: "Explore Multi-Platform Staking",
   },
   {
-    id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    id: "staking-5",
+    imgUrl: "/staking-05.png",
+    title: "Unlock Passive Income",
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  "Choose a staking platform that supports your NFT collection.",
+  "Connect your wallet and deposit your NFTs into the staking pool.",
+  "Sit back and earn passive rewards, such as tokens or governance rights, while your NFTs work for you.",
 ];
 
 export const newFeatures = [
   {
-    imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    imgUrl: "/vrpano.svg",
+    title: "New Staking Opportunities",
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+      "We've just added new collections and platforms where you can stake your NFTs to earn even more rewards. Get started today!",
   },
   {
-    imgUrl: '/headset.svg',
-    title: 'More realistic',
+    imgUrl: "/headset.svg",
+    title: "Enhanced Security",
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+      "Our latest update brings improved security protocols to ensure your NFTs are safe while you stake and earn passive income.",
   },
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/staking-06.png",
+    title: "The rise of NFT Staking: A new way to earn rewards",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Discover how NFT staking hub is transforming the digital asset space, allowing holders to earn passive income while supporting blockchain ecosystems.",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/staking-07.png",
+    title: "5 tips to maximize your earnings with NFT staking",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Unlock the full potential of your NFTs by following these expert tips on staking strategies, including platform selection, staking pools, and reward optimization.",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/staking-08.png",
+    title: "Explore multiple NFT staking platforms from one place",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Experience the convenience of staking your NFTs across various platforms, all from a single dashboard, while managing your portfolio and tracking rewards effortlessly.",
   },
 ];
 
 export const socials = [
   {
-    name: 'twitter',
-    url: '/twitter.svg',
+    name: "twitter",
+    url: "/twitter.svg",
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: "linkedin",
+    url: "/linkedin.svg",
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: "instagram",
+    url: "/instagram.svg",
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: "facebook",
+    url: "/facebook.svg",
   },
 ];
